@@ -1,0 +1,66 @@
+*{
+	box-sizing: border-box;
+	font-family:
+	color: white;
+}
+ 
+html,body{
+	margin:0;
+	padding:0; 
+}
+
+
+.nav ul {
+	margin:0;
+}
+.nav li{
+	display: inline;
+}
+.nav a{
+	padding: .5em;
+	color: #ffff1a;
+	text-decoration:none;
+}
+.main-nav{
+	text-align:center;
+	font-size: 1.5em;
+	font-weight: lighter;
+	border-bottom: 2px solid rgba(255,255,255,.4) 
+}
+.nav a:hover{
+	background-color: rgba(255,255,255,.3);
+}
+
+
+
+.main-header{
+	background-image:url("addition.jpeg");
+	width: 100%;
+	height: 300px;
+	background-size: cover;
+	padding-bottom: 30px;
+}
+.heeding1{
+	text-align: center;
+	margin:5%;
+	font-size: 100px;
+	color: #0073e6;
+	font-family: serif;     
+		
+}
+
+.heed {
+	text-align: center;
+	margin:0;
+	font-size: 60px;
+	color: #00ff00;
+}
+
+.bgimage {
+	background-image:url("books.jpeg");
+	width: 100%;
+	height: 800px;
+	background-size: cover;
+	padding-bottom: 30px;
+}
+	
